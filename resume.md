@@ -59,7 +59,6 @@
 
 # Professional Summary
 
-
 ### Technology and Product
 
 - About two decades of experience building and enhancing software products
@@ -112,3 +111,21 @@
     - *AirWatch (acquired by VMware for USD 1.5B with 15,000 enterprise customers)*
 - Member of the Technical Due Diligence panel for the Aetherpal acquisition by VMware
 - Key innovator and decision maker on new products
+
+<br />
+
+# Education
+
+### Bachelor of Engineering in Computer Science, 2003
+> Bangalore Institute of Technology (VTU), Bengaluru  
+> Score: 82.69%  
+
+### Pre-University Degree (PUC) in Science, 1999
+> MES College of Arts, Commerce and Science, Bengaluru <br />
+> Score: 93.33% <br />
+
+### I.C.S.E (Class X), 1997
+> St. Joseph’s Boys High School, Bengaluru <br />
+> Score: 91.83% <br />
+
+
