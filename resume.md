@@ -128,4 +128,152 @@
 > St. Joseph’s Boys High School, Bengaluru <br />
 > Score: 91.83% <br />
 
+<br />
+ 
+# Highlights
+
+#### VP of Technology, Application Platform  @ Rebel Foods,  Bengaluru, India
+*February 2022 – till date*<br /><br />
+*Catalog Management, Order Management, Online Distribution, User Access Management, Kitchen Display, Delivery Services, Customer Delight, Kitchen Automation, Partner Portal*<br />
+
+**Highlights:**
+- Building Rebel Foods’ advanced Rebel+ Cloud Kitchen software platform
+- Setting up several software development practices from scratch
+- Setting up hiring practices, building teams
+
+**Technologies:**
+Microservices architecture, AWS, NodeJS, JavaScript, TypeScript, Java, Ruby <br />
+
+**Domain:** Food Technology, Kitchen-as-a-Service, Cloud Kitchens <br />
+
+<hr />
+
+#### Director, Consumer Platform (groupon.com) @ Groupon, Bengaluru, India
+*October 2019 – Present (1 year, 9 months)* <br/><br/>
+*Deals Platform, User Generated Content, Geo Services, Shopping Cart, Wishlist, Orders, Payments, Local Inventory Management, and more* <br/>
+
+**Highlights:**
+- Led and drove Business Contingency requirements during the COVID-19 situation.
+- Rolled out a uniform software development process across several services. Implemented the Spotify model and a ‘unified backlog’ for execution efficiency.
+- Led large initiatives such as Project Simplify, Cloud Migration, and so on.
+- Worked across several Application Platform services such as Deal Catalog, Orders, Payments, Inventory, Geo Services, Shopping Cart, Wishlist, UGC, Taxonomy, Images, and many more
+- Worked on adding a Payment Gateway failover
+- Modernized the Orders platform 
+- Mentored several engineers, women engineers, managers, program managers, product managers across Groupon. Mentor in the Mentor Match program.
+- Streamlined and optimized the hiring process 
+- Adjudicator for most of the Hackathons conducted at Groupon.
+
+**Technologies:**
+Distributed Systems, SOA, Microservices architecture
+
+**Domain:** eCommerce, Deal Catalog, UGC, Geo Services, Shopping Cart, Wishlist, Payments, Orders, Local Inventory <br/>
+
+<hr />
+
+#### Director, Workspace ONE UEM  @ VMware, Bengaluru, India
+July 2015 – Present (4 years, 1 month) <br /><br />
+*Workspace ONE UEM R&D* <br/>
+
+**Highlights:**
+- Involved in large initiatives such as Apple UDID length changes, GDPR compliance, VPAT and so on.
+- Designed the next generation dynamic Smart Group evaluation system.
+- Designed the next generation User Sync model to abstract sources of Users and Groups.
+- Implemented Software Distribution on macOS. Initiated the development of the macOS Intelligent Hub app.
+- Pro-actively re-wrote the Reports module to eliminate SSRS infrastructure and introduced a 'backgrounding framework'.
+- Other activities are covered as part of the summary.
+
+<hr />
+
+#### Development Manager @ VMware, Bengaluru, India
+March 2012 - June 2015 (3 years, 3 months) <br /><br />
+*AirWatch R&D* <br />
+
+**Highlights:**
+- Built the AirWatch Professional product from scratch. This product has been through a few iterations and has now evolved into Workspace ONE Express. Team continues to own it.
+- Built support for Rugged devices in the AirWatch server with Product Provisioning.
+- Integrated AirWatch Cloud Messaging with the AirWatch server.
+- Developed a framework to enable backgrounding of long running operations.
+- Developed the AirWatch Hub dashboard.
+- and, delivered several more product features.
+
+**Technologies:**
+C# and .NET, ASP.net MVC 4, ASP.net MVC 2, ASP.net Web API 2, SQL Server, Windows Services, MSMQ and other server-side technologies; Javascript, jQuery and other client-side technologies.
+
+**Domain:** Unified Endpoint Management, Enterprise Mobile Management, Mobile Device Management.
+
+<hr />
+
+#### Principal Software Engineer @ VMware, Bengaluru, India
+*March 2011 - March 2012 (1 year, 1 month)* <br /><br />
+*AirWatch R&D* <br />
+
+**Highlights:**
+- Developed and delivered the AirWatch Self Service Portal to enable device users to view and perform a limited set of actions on their own devices. The team continues to own this product.
+- Implemented the AirWatch Self Service Portal Mobile Views to dynamically service mobile optimized pages when viewed on smartphones and tablets.
+- Implemented File Manager control and Registry Manager control to remotely manage files, folders and registry entries on Windows Mobile and Windows CE rugged devices.
+- and, delivered several product features.
+
+**Technologies:**
+C# and .NET, ASP.net MVC2, SQL Server, Javascript, jQuery and other related technologies.
+
+**Domain:** Unified Endpoint Management, Enterprise Mobile Management, Mobile Device Management.
+
+<hr />
+
+#### Senior Software Engineer @ Manhattan Associates, Bengaluru, India
+*January 2008 - February 2011 (3 years 2 months)* <br /><br />
+*Manhattan SCALE team (R&D), Manhattan Warehouse Management System (for IBM System-i) (R&D)* <br />
+
+**Highlights:**
+- Developed a data warehouse product called Supply Chain Intelligence (SCI) complete with ETL processes and user interfaces.
+- Developed Windows Communication Foundation (WCF) based APIs for the Labor Management module.
+- Stabilized the interface with the Vocollect voice-based picking and packing system.
+- Worked on creating shipping and other labels using the Zebra Programming Language (ZPL).
+- Created a reference architecture and a tool to size hardware for on-premise deployments.
+- … and, delivered several product features.
+
+**Technologies:**
+Microsoft Business Intelligence suite (SQL Server Integration Services, SQL Server Analysis Services), IBM Cognos’ Analysis Studio, Event Studio and Framework Manager, C# and .NET, Windows Forms, WCF and related technologies.
+
+**Domain:** Warehouse Management, Supply Chain Management Planning and Execution.
+
+<hr />
+
+#### Software Engineer @ Manhattan Associates, Bengaluru, India
+*December 2005 - January 2008 (2 years 2 months)* <br /><br />
+*Manhattan Warehouse Management System (for IBM System-i) (R&D), Tactical ILS (R&D)* <br />
+
+**Highlights:**
+- Implemented the Warehouse Management side of integration for the Tactical ILS framework based on the webMethods integration server.
+- Part of the team that rewrote the Material Handling Equipment (MHE) interface.
+- Developed a custom XML SAX parser and an Enterprise Integration layer for the Warehouse Management System (for IBM-i) product.
+- Worked on the PoC design and implementation of the 'DOM-on-i' project that involved installation and integration of the Java / J2EE based Distributed Order Management alongside the IBM-i based Warehouse Management System.
+- Enabled sending of large XMLs (of POs, ASNs) using IBM WebSphere MQ by using an advanced solution involving pointers to ‘teraspace storage’ on IBM-i.
+- Implemented an algorithm to support the IN and NOT IN operators on query interfaces to fill gaps with the native implementation.
+- and, delivered several product features.
+
+**Technologies:**
+ILE RPG (RPG IV) and related technologies on the IBM-i, IBM WebSphere MQ, webMethods, XML, XSLT and related technologies, Java.
+
+**Domain:** Warehouse Management, Supply Chain Management Planning and Execution, Distributed Order Management, Retail.
+
+<hr />
+
+#### Software Engineer @ Bosch, Bengaluru, India
+*November 2003 - December 2005 (2 years 2 months)* <br /><br />
+*Pansophic Resource Management System (Sales and Distribution module)* <br />
+
+**Highlights:**
+- Primary developer and owner of the Bosch Warranty System for Blaupunkt Audio Systems.
+- Developer on the Export Oriented Unit module for Bosch’s Jaipur manufacturing plant.
+- Helped migrate the team from SEI CMM Level 3 to SEI CMMi Level 5.
+- Part of the Emerging Technologies group to validate and evaluate new technologies.
+
+**Technologies:**
+RPG/400, RPG IV, CL/400 on the AS/400 platform; SQL/400 and tools such as Query/400 and Query Manager for the underlying DB2 database; … and other technologies such as C++, Java.
+
+**Domain:** ERP (Sales and Distribution).
+
+<hr />
+
 
