@@ -9,7 +9,7 @@
 
 # Experience
 
-*More than 19 years of product development experience including 10.5 years of leadership and management experience*
+*More than 21 years of product development experience including 12.5 years of leadership and management experience*
 
 ### **Rebel Foods**, Bengaluru, India
 
